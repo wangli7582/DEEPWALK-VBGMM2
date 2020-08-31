@@ -8,7 +8,6 @@
 
 ### 1.安装：
 
-------------
 ```
 #. cd deepwalk
 #. pip install -r requirements.txt 
@@ -33,8 +32,8 @@ python start.py
 
 
 
-Ⅱ.  VBGMM 
-===============================
+# Ⅱ.  VBGMM 
+
 ### 1.计算不同参数对应的NMI数值
 python preCommunity2.py
 
@@ -49,7 +48,7 @@ python maxResult.py
 
 python draw.py
 
-# 4.得到网络划分结果图
+### 4.得到网络划分结果图
 
 python predCommunity.py
 
